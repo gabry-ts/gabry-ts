@@ -4,7 +4,7 @@
 
 ### Solution Architect · 12+ Years of Backend Systems · Terminal Addict
 
-*Airline booking engines, power grid monitoring, AI pipelines - I build the systems behind the systems*
+*AI build the systems behind the systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielepartiti/)
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Solution Architect with 12+ years shipping backend systems across industries most devs never touch. I write code, debug production, mentor developers, and own the outcome. Currently architecting enterprise AI pipelines, auth platforms, and cloud migrations.
+Solution Architect with 12+ years shipping backend systems across industries. Currently architecting enterprise AI pipelines, auth platforms, and cloud migrations.
 
 🇮🇹🇨🇭 Italian & Swiss · Turin · Available remote worldwide
 
