@@ -60,22 +60,8 @@ Home Assistant integration — virtual<br>
 master light to sync multiple lights
 
 </td>
-<td align="center" width="33%">
-
-**[linkwarden-viewer-chrome](https://github.com/gabry-ts/linkwarden-viewer-chrome)**<br>
-[![GitHub Stars](https://img.shields.io/github/stars/gabry-ts/linkwarden-viewer-chrome?style=flat-square)](https://github.com/gabry-ts/linkwarden-viewer-chrome)<br>
-Chrome extension for Linkwarden<br>
-self-hosted bookmark manager
-
-</td>
-<td align="center" width="33%">
-
-**[nvim](https://github.com/gabry-ts/nvim)**<br>
-[![GitHub Stars](https://img.shields.io/github/stars/gabry-ts/nvim?style=flat-square)](https://github.com/gabry-ts/nvim)<br>
-Personal Neovim config — LazyVim,<br>
-Copilot, DAP, 27 plugins
-
-</td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
