@@ -2,11 +2,13 @@
 
 # Hey, I'm Gabry
 
-**Solution Architect** · 12+ years of backend systems · Terminal addict
+**Solution Architect AI** · Senior Backend Engineer · 12+ years hands-on
 
-*I build the systems behind the systems*
+*I build the systems behind the systems — RAG, agents, MCP, cloud-native AWS*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-partiti.dev-D4FF3A?style=for-the-badge&logoColor=black)](https://partiti.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielepartiti/)
+[![Email](https://img.shields.io/badge/gabriele@partiti.dev-0a0a0a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:gabriele@partiti.dev)
 
 </div>
 
@@ -14,9 +16,9 @@
 
 ### About
 
-Solution Architect with 12+ years shipping backend systems across industries. Currently architecting enterprise AI pipelines, auth platforms, and cloud migrations. 39+ Docker stacks in the homelab and counting.
+Solution Architect AI and Senior Backend Engineer with 12+ years shipping production systems across industries. Currently designing and implementing enterprise RAG pipelines, multi-step AI agents, Model Context Protocol integrations, and cloud-native AWS architectures. 39+ Docker stacks in the homelab and counting.
 
-IT/CH · Turin · Remote worldwide
+**IT/CH · Turin · Remote worldwide · [partiti.dev](https://partiti.dev)**
 
 ---
 
